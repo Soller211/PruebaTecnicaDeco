@@ -27,3 +27,5 @@ Ejemplo de impresión de las tablas
 2x3 = 6
 … etc.
 
+NOTA: Se debe realizar este programa 2 veces, uno utilizando la Función IF y otro utilizando la Funcion SWITCH, ambos programas deben estar dentro de un Metodo que será llamado en el Main.
+
